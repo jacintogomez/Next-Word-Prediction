@@ -6,7 +6,7 @@ In this model, I updated the code to give the output sentence with the next pred
 
 The input data is "Metamorphosis" by Franz Kafka, making the predicted sentences bias toward common sentences/phrases found in the text
 
-example: input text "he will take"
+Example: input text "he will take"
 Primary suggestion: "he will take sides"
 Secondary suggestoin: "he will take sides against"
 Tertiary suggestion: "he will take sides against the"
