@@ -6,7 +6,11 @@ In this model, I updated the code to give the output sentence with the next pred
 
 The input data is "Metamorphosis" by Franz Kafka, making the predicted sentences bias toward common sentences/phrases found in the text
 
-example: input text "Let's go to"
-Primary suggestion: "Let's go to cover"
-Secondary suggestoin: "Let's go to cover it"
-Tertiary suggestion: "Let's go to cover it away"
+example: input text "he will take"
+Primary suggestion: "he will take sides"
+Secondary suggestoin: "he will take sides against"
+Tertiary suggestion: "he will take sides against the"
+
+Other primary suggestions:  ['it', 'now,', 'her', 'his', 'him', 'all', 'some', 'their', 'over', 'a', 'long']
+Other secondary suggestions:  ['against']
+Other tertiary suggestions:  ['the', 'each', 'it', 'his', 'me', 'it.', 'him', 'its', "Gregor's", 'her', 'accepting']
